@@ -1,0 +1,5 @@
+streamlit
+openai
+huggingface_hub
+python-dotenv
+requests
